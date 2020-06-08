@@ -11,7 +11,7 @@ Information Collection and Use
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Session data, Actions log, Crashes. The information that I request will be retained on your device and is not collected by me in any way.
 
-The app does use third party services that may collect information used to identify you.
+The app does use third party services (frameworks) as Facebook SDK and Firebase that may collect information used to identify you. The frameworks may collect such data as device operating system type and version number, manufacturer and model, device ID, push tokens, Google Advertising ID, Apple ID for Advertising, browser type, screen resolution, IP address (and the associated country in which you are located), the website you visited before visiting our Service; and other information about the device you are using to visit the App. 
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
